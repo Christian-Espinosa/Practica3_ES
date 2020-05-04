@@ -2,10 +2,9 @@ import pytest
 from Game import Game
 from Player import Player
 
-
 @pytest.mark.parametrize("score_player_1, score_player_2, expected_result", [
     (0, 0, "Love-All"),
-    # (1, 1, "Fifteen-All"),
+     (1, 1, "Fifteen-All"),
     # (2, 2, "Thirty-All"),
     # (3, 3, "Deuce"),
     # (4, 4, "Deuce"),
