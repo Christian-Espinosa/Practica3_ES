@@ -1,7 +1,7 @@
 class Player:
     def __init__(self, name:str):
         self.name = name
-        self.num_point = 0
+        self.num_points = 0
         
     def get_name(self) -> int:
         return self.name
@@ -14,3 +14,6 @@ class Player:
     
     def add_point(self) -> None:
         self.num_points = self.num_points + 1
+    
+    def reset_point(self) -> None:
+        self.num_points = 0
