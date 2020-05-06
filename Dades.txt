@@ -1,3 +1,7 @@
+Repository
+https://github.com/Christian-Espinosa/Practica3_ES
+
+Participants
 Christian Espinosa Reboredo NIU 1459024
 Iker Martínez Robles NIU 1533545
 Alex Alaminos Reyne NIU 1494988
